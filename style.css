@@ -1,0 +1,160 @@
+* { 
+    background-color: rgb(255, 255, 255); /**this overwrite everything**/
+}
+li, a, button, h1 {
+    color:#010709;
+}
+.header{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    padding-top: 0px;
+}
+.html
+
+nav, ul, li, a {
+    text-decoration: none;
+    display:inline-block;
+    padding: 5px 45px;
+}
+button {
+    padding: 9px 45px;
+    border:none;
+    border-radius:100px;
+    background-color: #BFEAF5;
+    cursor:pointer;
+}
+button:hover {
+    background-color:  rgb(137, 238, 238);
+}
+.logo{
+    padding-left: 30px;
+}
+
+/* HOME */
+    .home1{
+    height: 810px;
+    padding-left:80px;
+    padding-right: 40px;
+    font-size: 60px;
+    display: flex;
+    justify-content: space-between;}
+    
+        .home2{
+        padding-top: 140px;
+        font-size: 70px;}
+
+        .para1{
+            font-size: 20px;
+            font-style: oblique;
+        }
+
+        .homeb{
+        margin-top: 150px;}
+
+/* HOME */
+
+/* About */
+#introduction{
+    display: flex;
+    height: 810px;
+}
+.about{
+    padding: 100px 40px 0px 0px;
+    font-size: 30px;
+    text-align: justify;
+    display: grid;
+    font-style: oblique;
+}
+.about1{
+    text-align: center;
+    font-size: 70px;
+    font-style: normal;
+    color: rgb(18,193,204);
+    
+}
+/* About */
+/* Education */
+#education{
+    display: flex;
+    height: 810px;
+}
+.edu{
+    display: grid;
+    padding: 100px 200px 0px 20px;
+    font-size: 30px;
+    text-align: justify;
+    display: grid;
+}
+.edu1{
+    text-align: right;
+    font-size: 70px;
+    font-style: normal;
+    color: rgb(18,193,204);
+
+}
+/* Education */
+/* Hobbies */
+
+/* Hobbies */
+#hobbies{
+    height: 810px;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+    font-style: normal;
+    color: rgb(18,193,204);
+}
+.hobbies1{
+    display: flex;
+}
+.hobbies-info{
+    padding: 250px 40px 0px 0px;
+    font-size: 30px;
+    text-align: justify;
+    font-style: oblique;
+    
+}
+
+/* contact */
+#contact{
+    height: 610px;
+    padding-top: 200px;
+    margin-bottom: 0px;
+    
+}
+.row{
+    display: flex;
+}
+.contact-left p i{
+    color: rgb(18,193,204);
+    margin-right: 15px;
+    font-size: 25px;
+    padding-left: 20px;
+}
+.contact-right form{
+    width: 100%;
+}
+form input, form textarea{
+    width: 100%;
+    border:0;
+    outline: none;
+    background:#c1edf6;
+    padding: 15px;
+    margin: 15px 0;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 6px;
+}
+form .{
+    padding: 14px 60px;
+    font-size: 18px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.sub-title{
+    text-align: center;
+}
+            
+
